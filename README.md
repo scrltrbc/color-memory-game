@@ -19,3 +19,7 @@ I placed the LEDs, resistors and buttons and wrote the basic code, simulated it 
 
 ## Final Product
 
+
+https://github.com/user-attachments/assets/259bc58b-8cfc-4320-ab6e-8c154c2ec71c
+
+
