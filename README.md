@@ -15,7 +15,7 @@ I placed the LEDs, resistors and buttons and wrote the basic code, simulated it 
 
 <img src="imgs/cmgirl.jpeg">
 
-<p>At first it worked, but after a few runs one of the LEDs stopped working. After tinkering a bit, I found out that it wasn't the LED and I had somehow destroyed one of the holes in the breadboard. I rearranged the elements and it hasn't malfunctioned since then.</p>
+<p>At first it worked, but after a few runs one of the LEDs stopped working. After tinkering a bit, I found out that it wasn't the LED and I had somehow destroyed one of the holes in the breadboard. I rearranged the elements and it hasn't malfunctioned since then. I also adjusted the light up time and time between light down and up and the intensity of the buzzer.</p>
 
 ## Final Product
 
